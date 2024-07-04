@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ANA FESTA Terminal 1",
+        "openTime": "06:15",
+        "closeTime": "20:00",
+        "location": "T1 South Wing / 2F / After Security Check",
+        "website": null,
+        "tags": ["Light Meals / Fast Food", "Convenience Stores", "Food Products / Confectionery"]
+    },
+    {
+        "id": 2,
+        "name": "BENITORA Xiao Chi",
+        "openTime": "07:30",
+        "closeTime": "21:00",
+        "location": "T3 / 2F / Before Security Check",
+        "website": "https://www.instagram.com/narita.airport_official/p/CDlTm4OHZGs/?img_index=1",
+        "tags": ["Chinese / Ethnic Cuisine"]
+    },
+    {
+        "id": 3,
+        "name": "BOTEJYU EXPRESS",
+        "openTime": "05:00",
+        "closeTime": "22:00",
+        "location": "T3 / 2F / Before Security Check",
+        "website": "https://www.tripadvisor.com/Restaurant_Review-g298161-d7933232-Reviews-BOTEJYU_EXPRESS_Narita_International_Airport_Store-Narita_Chiba_Prefecture_Kanto.html",
+        "tags": ["Japanese Cuisine"]
+    },
+    {
+        "id": 4,
+        "name": "CAFE & DINING N's COURT",
+        "openTime": "06:45",
+        "closeTime": "21:30",
+        "location": "T2 Center / 4F / Before Security Check",
+        "website": "https://www.yelp.ca/biz/cafe-%E3%81%A8-dining-ns-court-%E6%88%90%E7%94%B0%E5%B8%82-2",
+        "tags": ["Japanese Cuisine", "Western Cuisine", "Chinese / Ethnic Cuisine"]
+    }
+]
