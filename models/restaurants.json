@@ -6,7 +6,8 @@
         "closeTime": "20:00",
         "location": "T1 South Wing / 2F / After Security Check",
         "website": null,
-        "tags": ["Light Meals / Fast Food", "Convenience Stores", "Food Products / Confectionery"]
+        "tags": ["Light Meals", "Fast Food", "Convenience Stores", "Food Products / Confectionery"],
+        "about": "An extensive menu of light meals offered to passengers departing on domestic flights in Terminal 1. Popular confectionery and other miscellaneous items also available."
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "closeTime": "21:00",
         "location": "T3 / 2F / Before Security Check",
         "website": "https://www.instagram.com/narita.airport_official/p/CDlTm4OHZGs/?img_index=1",
-        "tags": ["Chinese / Ethnic Cuisine"]
+        "tags": ["Chinese / Ethnic Cuisine"],
+        "about": "Xiao Chi in Chinese means snacks and street food.  This restaurants offers casual dining with popular Chinese meals such as Black Sesame Szechuan Noodles, one of the stars of BENITORA GYOZABO. We recommend the hearty Shimidare Pork Buns which are delicious right down to the last bight. Great for a light snack or for when you are feeling a little hungry."
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "closeTime": "22:00",
         "location": "T3 / 2F / Before Security Check",
         "website": "https://www.tripadvisor.com/Restaurant_Review-g298161-d7933232-Reviews-BOTEJYU_EXPRESS_Narita_International_Airport_Store-Narita_Chiba_Prefecture_Kanto.html",
-        "tags": ["Japanese Cuisine"]
+        "tags": ["Japanese Cuisine"],
+        "about": "This shop is a branch of BOTEJYU, the okonomiyaki restaurant founded in Osaka in 1946, serving authentic foods from the area. We offer an extensive range of menus including Modern-yaki invented by BOTEJYU, takoyaki octopus balls from Osaka, and Moriyama deep fried chicken from Nakatsu, Oita prefecture, the Mecca of deep fried chicken."
     },
     {
         "id": 4,
@@ -33,6 +36,17 @@
         "closeTime": "21:30",
         "location": "T2 Center / 4F / Before Security Check",
         "website": "https://www.yelp.ca/biz/cafe-%E3%81%A8-dining-ns-court-%E6%88%90%E7%94%B0%E5%B8%82-2",
-        "tags": ["Japanese Cuisine", "Western Cuisine", "Chinese / Ethnic Cuisine"]
+        "tags": ["Japanese Cuisine", "Western Cuisine", "Chinese / Ethnic Cuisine"],
+        "about": "A spacious cafeteria with over 200 seats, the largest in Terminal 2. Designed in the image of a courtyard within an airport terminal, the facility is divided into a sofa area, counter chairs, and seats for families so that customers can rest and relax according to their needs. A wide range of menus are available from Japanese food to Western and Chinese cuisine."
+    },
+    {
+        "id": 5,
+        "name": "CAFE & BAR AVION",
+        "openTime": "08:00",
+        "closeTime": "20:30",
+        "location": "T1 No.3 Satellite / 3F / After Security Check (International Flights)",
+        "website": null,
+        "tags": ["Cafe", "Bar", "Fast Food", "Light Meals"],
+        "about": "Relax with a drink and snack before boarding."
     }
 ]
