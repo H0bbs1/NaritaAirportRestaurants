@@ -17,11 +17,11 @@ export default function RestaurantCard(props) {
   return (
     <a
       href="#"
-      className="block m-2 max-w-md p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+      className="block m-3 max-w-md p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
     >
       <img
-        className="rounded-t-lg"
-        src="/docs/images/blog/image-1.jpg"
+        className="rounded-t-lg mb-4 object-cover h-48 w-96"
+        src={restaurant.image_link}
         alt="Image here"
       />
       <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">

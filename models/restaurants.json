@@ -6,6 +6,7 @@
         "closeTime": "20:00",
         "location": "T1 South Wing / 2F / After Security Check",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/QewBbKUKrgDvQbdP3YLMfK?width=1080",
         "tags": ["Fast Food", "Convenience Stores", "Food Products / Confectionery"],
         "about": "An extensive menu of light meals offered to passengers departing on domestic flights in Terminal 1. Popular confectionery and other miscellaneous items also available."
     },
@@ -16,6 +17,7 @@
         "closeTime": "21:00",
         "location": "T3 / 2F / Before Security Check",
         "website": "https://www.instagram.com/narita.airport_official/p/CDlTm4OHZGs/?img_index=1",
+        "image_link": "https://narita-airport.imagewave.pictures/n6vdnEegbjRPgj3MzzrjaX?width=1080",
         "tags": ["Chinese / Ethnic Cuisine"],
         "about": "Xiao Chi in Chinese means snacks and street food.  This restaurants offers casual dining with popular Chinese meals such as Black Sesame Szechuan Noodles, one of the stars of BENITORA GYOZABO. We recommend the hearty Shimidare Pork Buns which are delicious right down to the last bight. Great for a light snack or for when you are feeling a little hungry."
     },
@@ -26,6 +28,7 @@
         "closeTime": "22:00",
         "location": "T3 / 2F / Before Security Check",
         "website": "https://www.tripadvisor.com/Restaurant_Review-g298161-d7933232-Reviews-BOTEJYU_EXPRESS_Narita_International_Airport_Store-Narita_Chiba_Prefecture_Kanto.html",
+        "image_link": "https://narita-airport.imagewave.pictures/BWZW88dPP8fUrLsBeN9qvM?width=1080",
         "tags": ["Japanese Cuisine"],
         "about": "This shop is a branch of BOTEJYU, the okonomiyaki restaurant founded in Osaka in 1946, serving authentic foods from the area. We offer an extensive range of menus including Modern-yaki invented by BOTEJYU, takoyaki octopus balls from Osaka, and Moriyama deep fried chicken from Nakatsu, Oita prefecture, the Mecca of deep fried chicken."
     },
@@ -36,6 +39,7 @@
         "closeTime": "21:30",
         "location": "T2 Center / 4F / Before Security Check",
         "website": "https://www.yelp.ca/biz/cafe-%E3%81%A8-dining-ns-court-%E6%88%90%E7%94%B0%E5%B8%82-2",
+        "image_link": "https://narita-airport.imagewave.pictures/K5xdA4Y2mxG5kTX724niqg?width=1080",
         "tags": ["Japanese Cuisine", "Western Cuisine", "Chinese / Ethnic Cuisine"],
         "about": "A spacious cafeteria with over 200 seats, the largest in Terminal 2. Designed in the image of a courtyard within an airport terminal, the facility is divided into a sofa area, counter chairs, and seats for families so that customers can rest and relax according to their needs. A wide range of menus are available from Japanese food to Western and Chinese cuisine."
     },
@@ -46,6 +50,7 @@
         "closeTime": "20:30",
         "location": "T1 No.3 Satellite / 3F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/N6FQzbzqyuEjTYnXrYrCX7?width=1080",
         "tags": ["Cafe", "Bar", "Fast Food"],
         "about": "Relax with a drink and snack before boarding."
     },
@@ -56,6 +61,7 @@
         "closeTime": "21:00",
         "location": "T3 / 2F / Before Security Check",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/kTipc4r5AUuq4nFZcq283V?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "60 years roasting the world's finest coffee beans.  We stand at the pinnacle of selecting and roasting coffee from around the world, unmoved by traditions or by trends and offering the very pest in our pursuit of the essence of supreme favor."
     },
@@ -66,6 +72,7 @@
         "closeTime": "22:00",
         "location": "T3 / 3F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/QhRn6vwK27DTWfwYKiS27F?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "60 years roasting the world's finest coffee beans.  We stand at the pinnacle of selecting and roasting coffee from around the world, unmoved by traditions or by trends and offering the very pest in our pursuit of the essence of supreme favor."
     },
@@ -76,6 +83,7 @@
         "closeTime": "18:00",
         "location": "T1 North Wing / 1F / Before Security Check",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/2fgUu5R3rcpn65a2KoSrHY?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "60 years roasting the world's finest coffee beans.  We stand at the pinnacle of selecting and roasting coffee from around the world, unmoved by traditions or by trends and offering the very pest in our pursuit of the essence of supreme favor."
     },
@@ -86,6 +94,7 @@
         "closeTime": "20:30",
         "location": "T1 Central Building / 4F / Before Security Check",
         "website": "https://byo.co.jp/dashichazuke-en/menu.html",
+        "image_link": "https://narita-airport.imagewave.pictures/t45Vxz7PkrEnwvkqYcJXSj?width=1080",
         "tags": ["Japanese Cuisine"],
         "about": "Specializing in Dashichazuke with the rich taste of the highest quality dashi stock. Fast food with an authentic flavor. Try our glistening golden soup with seaweed, dried sardines, several types of dried bonito flakes and chicken, plus seasonal toppings. Enjoy a moment of relaxation."
     },
@@ -96,6 +105,7 @@
         "closeTime": "20:00",
         "location": "T1 Central Building / 4F / Before Security Check",
         "website": "https://byo.co.jp/dashichazuke-en/menu.html",
+        "image_link": "https://narita-airport.imagewave.pictures/T6ufeKCkqUdkprjnmCctn4?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "Developed by gourmet grocery store Dean & DeLuca, this café offers an extensive food menu alongside carefully crafted cups of coffee and seasonal drinks."
     },
@@ -106,6 +116,7 @@
         "closeTime": "20:00",
         "location": "T2 Satellite / 3F / After Security Check (International Flights)",
         "website": "https://byo.co.jp/dashichazuke-en/menu.html",
+        "image_link": "https://narita-airport.imagewave.pictures/T6ufeKCkqUdkprjnmCctn4?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "Developed by gourmet grocery store Dean & DeLuca, this café offers an extensive food menu alongside carefully crafted cups of coffee and seasonal drinks."
     },
@@ -116,6 +127,7 @@
         "closeTime": "17:00",
         "location": "T1 North Wing / 3F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/4p5Xmax8SkNKQPwdKkw6zB?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "A self-service style cafe using fresh coffee beans brought and roasted directly from Doutor's own facility. Enjoy an extensive menu ranging from real coffee to delicious food."
     },
@@ -126,6 +138,7 @@
         "closeTime": "21:30",
         "location": "T2 Center / B1F / Before Security Check",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/4p5Xmax8SkNKQPwdKkw6zB?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "A self-service style cafe using fresh coffee beans brought and roasted directly from Doutor's own facility. Enjoy an extensive menu ranging from real coffee to delicious food."
     },
@@ -136,6 +149,7 @@
         "closeTime": "21:30",
         "location": "T2 Center / 2F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/dY968uYtJ2ifYX3Y6KbGp4?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "Overlooking the corridor connecting the main and satellite buildings in Terminal 2, FaSoLa Cafe offers a great view of the numerous aircraft moving around the apron areas. The stylish, spacious and friendly interior welcomes those looking for somewhere to relax or those seeking something quick and easy before boarding. As well as a cafe menu including coffee and light meals, there is also an extensive bar menu offering beer, whiskey, cocktails and nibbles. Why not start your journey on the right foot by dropping in at FaSoLa Cafe?"
     },
@@ -146,6 +160,7 @@
         "closeTime": "20:30",
         "location": "T1 No.4 Satellite / 3F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/dY968uYtJ2ifYX3Y6KbGp4?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "Overlooking the corridor connecting the main and satellite buildings in Terminal 2, FaSoLa Cafe offers a great view of the numerous aircraft moving around the apron areas. The stylish, spacious and friendly interior welcomes those looking for somewhere to relax or those seeking something quick and easy before boarding. As well as a cafe menu including coffee and light meals, there is also an extensive bar menu offering beer, whiskey, cocktails and nibbles. Why not start your journey on the right foot by dropping in at FaSoLa Cafe?"
     },
@@ -156,6 +171,7 @@
         "closeTime": "19:45",
         "location": "T1 No.5 Satellite / 3F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/dY968uYtJ2ifYX3Y6KbGp4?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "Overlooking the corridor connecting the main and satellite buildings in Terminal 2, FaSoLa Cafe offers a great view of the numerous aircraft moving around the apron areas. The stylish, spacious and friendly interior welcomes those looking for somewhere to relax or those seeking something quick and easy before boarding. As well as a cafe menu including coffee and light meals, there is also an extensive bar menu offering beer, whiskey, cocktails and nibbles. Why not start your journey on the right foot by dropping in at FaSoLa Cafe?"
     },
@@ -166,6 +182,7 @@
         "closeTime": "21:00",
         "location": "T3 / 2F / Before Security Check",
         "website": "https://www.freshnessburger.co.jp/menu",
+        "image_link": "https://narita-airport.imagewave.pictures/rVWjDYxDB9tE5nqgrZAGvF?width=1080",
         "tags": ["Fast Food"],
         "about": "The basic element of the Freshness Burger menu is 'Handmade, delicious, and healthy options!' We use juicy patty and vegetables produced in Japan for our hamburger. We also offer freshly-fried Hokkaido potatoes and various original drinks. Our store can be enjoyed also as a cafe."
     },
@@ -176,6 +193,7 @@
         "closeTime": "22:00",
         "location": "T2 Center / 2F / After Security Check (International Flights)",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/hZvG8rPPKA5KKEqX4S6bXj?width=1080",
         "tags": ["Cafe", "Bar"],
         "about": "Seasonal fruit parfaits, fruit sandwiches and smoothies prepared with carefully selected fresh fruit and handmade ice cream from the age-old purveyor of fruit in Yokohama, Mizunobu Fruit Parlor."
     },
@@ -186,6 +204,7 @@
         "closeTime": "20:15",
         "location": "T1 Central Building / 5F / Before Security Check",
         "website": "https://www.fujiya-fs.com/dbook/#page=2",
+        "image_link": "https://narita-airport.imagewave.pictures/C6Fhj53vQZcR58Mx5a9Jc4?width=1080",
         "tags": ["Western Cuisine"],
         "about": "Bring your family to enjoy Fujiya's extensive children's menu and perennial selections while watching aircraft arrive and depart from Narita Airport."
     },
@@ -196,6 +215,7 @@
         "closeTime": "20:00",
         "location": "T1 Central Building / 5F / Before Security Check",
         "website": null,
+        "image_link": "https://narita-airport.imagewave.pictures/fqCbJzYCyM4tEdS2watgyA?width=1080",
         "tags": ["Fast Food"],
         "about": "This specialty Hokkaido onigiri restaurant offers a lively atmosphere by cooking 'Fukkurinko' Special A-grade Rice from Hokkaido in-house and pressing the onigiri into shape right in front of the customers' eyes.Shiretoto shaké (salmon), Kojohama cod roe, Hokkaido beef, cream cheese and other select delicacies from the northern land and sea are pressed into a smooth rice ball.Combined with homemade pork miso soup, the perfect match for the rice, it is enjoyable at any time from breakfast to dinner.Try onigiri for yourself, the soul food of the Japanese."
     }
