@@ -7,7 +7,7 @@
         "location": "T1 South Wing / 2F / After Security Check",
         "website": null,
         "image_link": "https://narita-airport.imagewave.pictures/QewBbKUKrgDvQbdP3YLMfK?width=1080",
-        "tags": ["Fast Food", "Convenience Stores", "Food Products / Confectionery"],
+        "tags": ["Fast Food", "Convenience Store", "Food Products"],
         "about": "An extensive menu of light meals offered to passengers departing on domestic flights in Terminal 1. Popular confectionery and other miscellaneous items also available."
     },
     {
@@ -18,7 +18,7 @@
         "location": "T3 / 2F / Before Security Check",
         "website": "https://www.instagram.com/narita.airport_official/p/CDlTm4OHZGs/?img_index=1",
         "image_link": "https://narita-airport.imagewave.pictures/n6vdnEegbjRPgj3MzzrjaX?width=1080",
-        "tags": ["Chinese / Ethnic Cuisine"],
+        "tags": ["Chinese Cuisine"],
         "about": "Xiao Chi in Chinese means snacks and street food.  This restaurants offers casual dining with popular Chinese meals such as Black Sesame Szechuan Noodles, one of the stars of BENITORA GYOZABO. We recommend the hearty Shimidare Pork Buns which are delicious right down to the last bight. Great for a light snack or for when you are feeling a little hungry."
     },
     {
@@ -40,7 +40,7 @@
         "location": "T2 Center / 4F / Before Security Check",
         "website": "https://www.yelp.ca/biz/cafe-%E3%81%A8-dining-ns-court-%E6%88%90%E7%94%B0%E5%B8%82-2",
         "image_link": "https://narita-airport.imagewave.pictures/K5xdA4Y2mxG5kTX724niqg?width=1080",
-        "tags": ["Japanese Cuisine", "Western Cuisine", "Chinese / Ethnic Cuisine"],
+        "tags": ["Japanese Cuisine", "Western Cuisine", "Chinese Cuisine"],
         "about": "A spacious cafeteria with over 200 seats, the largest in Terminal 2. Designed in the image of a courtyard within an airport terminal, the facility is divided into a sofa area, counter chairs, and seats for families so that customers can rest and relax according to their needs. A wide range of menus are available from Japanese food to Western and Chinese cuisine."
     },
     {
